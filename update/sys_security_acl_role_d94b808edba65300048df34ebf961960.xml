@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-08 10:59:03</sys_created_on>
+        <sys_id>d94b808edba65300048df34ebf961960</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_236031_training_material_table.x_236031_training.user</sys_name>
+        <sys_package display_value="Training Material" source="x_236031_training">cd4bcc4edba65300048df34ebf9619a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training Material">cd4bcc4edba65300048df34ebf9619a3</sys_scope>
+        <sys_security_acl display_value="x_236031_training_material_table">5d4b808edba65300048df34ebf96195d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d94b808edba65300048df34ebf961960</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-08 10:59:03</sys_updated_on>
+        <sys_user_role display_value="x_236031_training.user" name="x_236031_training.user">994bcc4edba65300048df34ebf9619d3</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
